@@ -65,19 +65,6 @@ body {
   background: #EF476F;
   padding: 5px 0 10px;
 }
-.pricing-plan .pricing_heading:after {
-  content: "";
-  width: 36px;
-  height: 29.5%;
-  background: #EF476F;
-  position: absolute;
-  top: -1px;
-  right: 0;
-  z-index: 2;
-  transform: skewY(45deg) translateY(18px);
-  transition: all 0.4s ease 0s;
-}
-
 .plan-features {
   background: white;
   list-style: none;
